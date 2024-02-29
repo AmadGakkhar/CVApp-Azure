@@ -11,7 +11,7 @@ Fill up the necessary details and click create.
 Identify the URL and key needed to make API Calls and access the API console.
 API Console: https://westus.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-2/operations/56f91f2e778daf14a499f21b
 
-## Execute API Callssend
+## Execute API Calls
 From API Console, select the resource region and fill out the required information. At the end click on send
 
 ## Response
